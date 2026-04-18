@@ -5,6 +5,7 @@
 
 # Core
 alias cat="bat"
+alias bat="bat --paging=always"
 alias ls="eza --icons --hyperlink --sort=type"
 alias quit="exit"
 alias speedtest="speedtest-cli"
